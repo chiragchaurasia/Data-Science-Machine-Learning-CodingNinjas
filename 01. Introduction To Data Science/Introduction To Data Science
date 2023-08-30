@@ -24,3 +24,18 @@
 
   👉Deep Learning (or DL)
     Deep Learning is a very special field of Machine Learning where computers can actually learn and make intelligent decisions on their own. It involves a deeper level of automation in comparison with most machine learning algorithms.
+
+4. Libraries
+  👉Computation & Statistics
+    Numpy
+    Pandas
+
+  👉Visualization
+    Matplotlib
+    Plotly
+    Seaborn
+
+  👉Machine learning
+    Scikit-learn
+    Tensor flow
+    Keras
